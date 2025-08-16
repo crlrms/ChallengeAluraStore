@@ -23,4 +23,4 @@ Análise comparativa das 4 lojas da rede para identificar a unidade com menor de
 ## Como Executar
 ```bash
 pip install -r requirements.txt
-jupyter notebook Analise_AluraStore.ipynb
+jupyter notebook AluraStoreBr.ipynb
